@@ -2,24 +2,6 @@
   "schemaVersion": 3,
   "payloads": [
     {
-      "payloadId": "e3q-SCG26KDS1BYI1",
-      "displayName": "Galaxy S24 Ultra (au) | Kernel 6.1.99",
-      "models": [
-        "SCG26"
-      ],
-      "kernelVersions": [
-        "6.1.99"
-      ],
-      "exploit": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928USQS6DZF2/cve-2026-43499-app.so",
-        "size": 104128
-      },
-      "kernelsu": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S928USQS6DZF2-kdp",
-        "size": 4998352
-      }
-    },
-    {
       "payloadId": "galaxy-s25-series-2026-06-07",
       "displayName": "Galaxy S25 series | Kernel 6.6.98",
       "models": [
@@ -426,6 +408,25 @@
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S9280ZCS6DZF2-kdp",
         "size": 4879856
+      }
+    },
+    {
+      "payloadId": "e3q-SCG26KDS1BYI1",
+      "displayName": "Galaxy S24 Ultra au | Kernel 6.1.145 (SCG26KDS1BYI1)",
+      "models": [
+        "SCG26"
+      ],
+      "kernelVersions": [
+        "6.1.145"
+      ],
+      "requiresFreshP0Session": true,
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/kenshiro80/Root-My-Galaxy-Payloads/main/artifacts/e3q-SCG26KDS1BYI1/cve-2026-43499-app.so",
+        "size": 126832
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/kenshiro80/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-SCG26KDS1BYI1-kdp",
+        "size": 0
       }
     }
   ]
