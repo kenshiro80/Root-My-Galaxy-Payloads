@@ -422,11 +422,11 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/kenshiro80/Root-My-Galaxy-Payloads/main/artifacts/e3q-SCG26KDS1BYI1/cve-2026-43499-app.so",
-        "size": 126832
+        "size": 126896
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/kenshiro80/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-SCG26KDS1BYI1-kdp",
-        "size": 0
+        "size": 6532168
       }
     }
   ]
