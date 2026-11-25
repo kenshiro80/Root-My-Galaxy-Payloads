@@ -412,12 +412,12 @@
     },
     {
       "payloadId": "e3q-SCG26KDS1BYI1",
-      "displayName": "Galaxy S24 Ultra au | Kernel 6.1.145 (SCG26KDS1BYI1)",
+      "displayName": "Galaxy S24 Ultra au | Kernel 6.1.99 (SCG26KDS1BYI1)",
       "models": [
         "SCG26"
       ],
       "kernelVersions": [
-        "6.1.145"
+        "6.1.99"
       ],
       "requiresFreshP0Session": true,
       "exploit": {
