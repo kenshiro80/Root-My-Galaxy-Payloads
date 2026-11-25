@@ -419,7 +419,12 @@
       "kernelVersions": [
         "6.1.99"
       ],
+      
       "requiresFreshP0Session": true,
+      "routePolicy": {
+        "prefersShellTransport": true,
+        "slideRoute": "auto"
+      },
       "exploit": {
         "url": "https://raw.githubusercontent.com/kenshiro80/Root-My-Galaxy-Payloads/main/artifacts/e3q-SCG26KDS1BYI1/cve-2026-43499-app.so",
         "size": 126896
